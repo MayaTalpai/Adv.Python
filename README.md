@@ -1,0 +1,1 @@
+This project involves simulating genetic drift, natural selection, and fitness via Jogn Conways Game of life. Where color represents an individual and admixture of colors can represnt how genes spread within a population. See slides for more information. 
